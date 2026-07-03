@@ -25,6 +25,9 @@ The first version of the application focused on learning GUI development and bas
 - CustomTkinter
 - Pygame
 
+🔗 Repository:
+https://github.com/amin-soleimani1/music-player-basic
+
 ---
 
 🎵 **Phase 2 — Music Library Manager (Completed)**  
