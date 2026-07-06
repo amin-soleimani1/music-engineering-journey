@@ -38,6 +38,9 @@ An improved desktop version with database integration and better architecture.
 - Improved UI/UX
 - Playlist & music metadata management
 
+🔗 Repository:
+https://github.com/amin-soleimani1/Music-Library-Manager.git
+
 ---
 
 🌐 **Phase 3 — Music Management Platform (In Progress)**  
